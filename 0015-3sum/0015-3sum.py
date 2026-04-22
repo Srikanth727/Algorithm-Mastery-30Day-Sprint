@@ -5,22 +5,28 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         nums.sort()
-        l_nums = len(nums)
-        solution = set()
-        first = 0
-        while first < l_nums - 2:
-            left = first + 1
-            right = l_nums - 1
-            while left < right:
-                total = nums[left] + nums[right]
-                if (nums[first] + total) == 0:
-                    solution.add((nums[first], nums[left], nums[right]))
-                    left += 1
+        n = len(nums)
+        triplet = []
+
+        for i in range(n - 2):
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
+
+            left = i + 1
+            right = n - 1
+            while(left < right):
+                total = nums[i] + nums[left] + nums[right]
+                if total == 0:
+                    triplet.append([nums[i], nums[left], nums[right]])
+                    while left < right and nums[left] == nums[left + 1]:
+                        left += 1
+                    while left < right and nums[right] == nums[right - 1]:
+                        right -= 1
                     right -= 1
-                elif (nums[first] + total) > 0:
+                    left += 1
+
+                elif total > 0:
                     right -= 1
                 else:
                     left += 1
-            first += 1
-
-        return [list(triplet) for triplet in solution]
+        return triplet

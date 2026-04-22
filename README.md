@@ -30,10 +30,12 @@ Following specific industry guidance, I am targeting:
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |

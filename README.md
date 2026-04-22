@@ -29,15 +29,15 @@ Following specific industry guidance, I am targeting:
 ## Array
 |  |
 | ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0283-move-zeroes](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0283-move-zeroes) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/01-Arrays-and-Strings/Two-Pointer/0167-two-sum-ii-input-array-is-sortedmaster) |
+| [0283-move-zeroes](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/01-Arrays-and-Strings/Two-Pointer/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0283-move-zeroes](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0283-move-zeroes) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/01-Arrays-and-Strings/Two-Pointer/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/01-Arrays-and-Strings/Two-Pointer/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/01-Arrays-and-Strings/Two-Pointer/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->

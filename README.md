@@ -1,43 +1,44 @@
-# 30-Day Engineering Sprint: The Road to "Best of the Best"
+# 🚀 30-Day Software Engineering Sprint
 
-This repository serves as a technical log for an intensive 30-day preparation period. My goal is to demonstrate "best of the best" proficiency in algorithmic problem solving, focusing on efficiency, Pythonic code, and rapid execution.
+This repository tracks an intensive 30-day technical sprint focused on mastering high-complexity algorithms and system design patterns. The primary objective is to demonstrate "best of the best" proficiency in Python, targeting a **< 30-minute execution time** for Hard-tier challenges.
 
-## 🎯 The Challenge
-Following specific industry guidance, I am targeting:
-1. **Technical Strength:** Solving Hard LeetCode problems in < 30 minutes.
-2. **Consistency:** Daily contributions to demonstrate active engagement.
-3. **Domain Mastery:** Deep dives into 3 core technical pillars.
+## 🎯 The CEO Challenge
+Following specific industry guidance for new grads, this sprint focuses on:
+1. **Technical Depth:** Mastery of 3 core algorithmic domains.
+2. **Speed & Accuracy:** Solving complex problems in under 30 minutes.
+3. **Professionalism:** Maintaining a clean, architecturally sound GitHub presence.
 
 ## 📊 Sprint Progress
-| Week | Focus | Status |
-| :--- | :--- | :--- |
-| **Week 1** | Linear Logic (Arrays, Strings, Sliding Window) | 🏗️ In Progress |
-| **Week 2** | Connectivity (Trees & Graphs) | ⏳ Pending |
-| **Week 3** | Optimization (DP & Heaps) | ⏳ Pending |
-| **Week 4** | Simulation & Peak Performance | ⏳ Pending |
-
-## 🛠️ Tech Stack & Methodology
-- **Language:** Python 3.12+
-- **Complexity Focus:** Strictly optimizing for $O(n)$ or $O(n \log n)$ time complexity.
-- **Pattern Recognition:** Categorizing every solution by its underlying algorithmic pattern.
+| Week | Focus Domain | Problems Solved | Status |
+| :--- | :--- | :--- | :--- |
+| **Week 1** | Linear Logic (Arrays, Strings, Sliding Window) | 2 / 20 | 🏗️ In Progress |
+| **Week 2** | Connectivity (Trees & Graphs) | 0 / 20 | ⏳ Pending |
+| **Week 3** | Optimization (DP & Heaps) | 0 / 15 | ⏳ Pending |
+| **Week 4** | Full Simulation & Speed Drills | 0 / 10 | ⏳ Pending |
 
 ---
-*"The same discipline used to squat 400 lbs is applied here to master the stack."*
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/01-Arrays-and-Strings/Two-Pointer/0167-two-sum-ii-input-array-is-sortedmaster) |
-| [0283-move-zeroes](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/01-Arrays-and-Strings/Two-Pointer/0283-move-zeroes) |
-## Two Pointers
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/01-Arrays-and-Strings/Two-Pointer/0167-two-sum-ii-input-array-is-sorted) |
-| [0283-move-zeroes](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/01-Arrays-and-Strings/Two-Pointer/0283-move-zeroes) |
-## Binary Search
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/01-Arrays-and-Strings/Two-Pointer/0167-two-sum-ii-input-array-is-sorted) |
-<!---LeetCode Topics End-->
+## 📂 Curated Solutions (Manual Tracking)
+*The links below point directly to the optimized Python solutions within this repository.*
+
+### 01. Arrays & Strings
+* [Two Sum II - Input Array Is Sorted](./01-Arrays-and-Strings/Two-Pointer/0167-two-sum-ii-input-array-is-sorted) - *Pattern: Two Pointers*
+* [Move Zeroes](./01-Arrays-and-Strings/Two-Pointer/0283-move-zeroes) - *Pattern: Two Pointers*
+
+### 02. Trees & Graphs
+* *Coming Soon*
+
+### 03. Optimization & Heaps
+* *Coming Soon*
+
+---
+
+## 🛠️ Technical Methodology
+- **Language:** Python 3.12+
+- **Complexity Focus:** Optimizing for $O(n)$ or $O(n \log n)$ time complexity.
+- **Documentation:** Every solution includes a brief explanation of the algorithmic choice.
+
+---
+
+# LeetCode Topics Table
+*The table below is automatically updated by LeetHub. Note: Automated links may break if files are moved into subdirectories.*

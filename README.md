@@ -48,13 +48,19 @@ Following specific industry guidance for new grads, this sprint focuses on:
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

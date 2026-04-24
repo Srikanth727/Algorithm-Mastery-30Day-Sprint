@@ -50,6 +50,7 @@ Following specific industry guidance for new grads, this sprint focuses on:
 | ------- |
 | [0015-3sum](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0643-maximum-average-subarray-i](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +64,8 @@ Following specific industry guidance for new grads, this sprint focuses on:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0015-3sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

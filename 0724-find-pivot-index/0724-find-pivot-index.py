@@ -5,9 +5,7 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
-        total = 0
-        for i in range(n):
-            total += nums[i]
+        total = sum(nums)
         
         left_sum = 0
         for j in range(n):

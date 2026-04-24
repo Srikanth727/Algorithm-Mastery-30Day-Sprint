@@ -52,6 +52,7 @@ Following specific industry guidance for new grads, this sprint focuses on:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Following specific industry guidance for new grads, this sprint focuses on:
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +71,9 @@ Following specific industry guidance for new grads, this sprint focuses on:
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

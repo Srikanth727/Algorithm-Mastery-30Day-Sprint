@@ -50,6 +50,7 @@ Following specific industry guidance for new grads, this sprint focuses on:
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0485-max-consecutive-ones) |
@@ -61,6 +62,7 @@ Following specific industry guidance for new grads, this sprint focuses on:
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -87,4 +89,16 @@ Following specific industry guidance for new grads, this sprint focuses on:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

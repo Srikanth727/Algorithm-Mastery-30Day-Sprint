@@ -48,6 +48,7 @@ Following specific industry guidance for new grads, this sprint focuses on:
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -58,6 +59,7 @@ Following specific industry guidance for new grads, this sprint focuses on:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,4 +83,8 @@ Following specific industry guidance for new grads, this sprint focuses on:
 | ------- |
 | [0724-find-pivot-index](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/1004-max-consecutive-ones-iii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

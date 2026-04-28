@@ -54,6 +54,7 @@ Following specific industry guidance for new grads, this sprint focuses on:
 | [0075-sort-colors](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/1004-max-consecutive-ones-iii) |
@@ -83,6 +84,7 @@ Following specific industry guidance for new grads, this sprint focuses on:
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
@@ -101,4 +103,8 @@ Following specific industry guidance for new grads, this sprint focuses on:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

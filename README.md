@@ -107,4 +107,8 @@ Following specific industry guidance for new grads, this sprint focuses on:
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0560-subarray-sum-equals-k) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

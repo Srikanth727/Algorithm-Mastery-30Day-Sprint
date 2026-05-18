@@ -113,5 +113,6 @@ Following specific industry guidance for new grads, this sprint focuses on:
 | [0584-find-customer-referee](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Srikanth727/Algorithm-Mastery-30Day-Sprint/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
